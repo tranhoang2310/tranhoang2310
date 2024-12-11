@@ -1,10 +1,10 @@
 ## Hi, I'm HOÀNG
 or you can call me KIN 👋
 
-📅 Weekdays for code 
-🏍️ Weekends on the road 
+📅 Weekdays for code  
+🏍️ Weekends on the road  
 
-💻 Full-stack developer | 🌍 Coding for traveling
+💻 Full-stack developer | 🌍 Coding for traveling  
 🌟 Passionate about open-source & clean code
 
 <!-- ☕ Fueled by coffee, driven by curiosity 🐞
