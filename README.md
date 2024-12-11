@@ -1,5 +1,6 @@
-## Hi, I'm HOÀNG
-or you can call me KIN 👋
+## 👋 Hi, I'm HOÀNG 👋
+(or you can call me KIN)
+
 
 📅 Weekdays for code  
 🏍️ Weekends on the road  
