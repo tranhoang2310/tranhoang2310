@@ -1,16 +1,7 @@
-## 👋 Hi, I'm HOÀNG 👋
-(or you can call me KIN)
-
-
-📅 Weekdays for code  
-🏍️ Weekends on the road  
-
-💻 Full-stack developer | 🌍 Coding for traveling  
-🌟 Passionate about open-source & clean code
-
 <div align="center">
 
-## Hi, I'm [Your Name] 👋
+## 👋 Hi, I'm HOÀNG 👋
+(or you can call me KIN)
 
 <a href="https://github.com/username"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -22,13 +13,15 @@
 ---
 
 ### 📜 About Me
-I'm a software developer deeply engaged in AI technologies with diverse experience in developing software solutions for a range of organizations and domains. I've configured weather stations for air quality monitoring, built donation management systems for charitable organizations, and contributed to the development of telecom and STEM educational tools.
+📅 Weekdays for code  
+🏍️ Weekends on the road  
 
-I've honed my technical skills through consistent participation in city Olympiads in Physics, Robotics, and Mathematics, as well as the World Olympiads. I am always ready to address complex challenges and contribute to the innovative spectrum of software development.
+💻 Full-stack developer | 🌍 Coding for traveling  
+🌟 Passionate about open-source & clean code
 
 ### 🛠️ Skills
-- **Programming Languages:** `Python`, `JavaScript`, `C++`, `Go`
-- **Technologies:** `Docker`, `Linux`, `MongoDB`, `Git`, `HTML5`, `CSS3`
+- **Programming Languages:** `Java`, `JavaScript`, `Python`, `Go`
+- **Technologies:** `AWS`, `Kafka`, `Docker`, `Jenkin`, `SQL`, `MongoDB`, `Git`, `HTML5`, `CSS3`
 
 ### 🎓 Education
 - **Cybersecurity of computer systems** - Taras Shevchenko National University of Kyiv
