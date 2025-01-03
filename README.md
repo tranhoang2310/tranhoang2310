@@ -3,12 +3,12 @@
 ## 👋 Hi, I'm HOÀNG 👋
 (or you can call me KIN)
 
-<a href="[https://github.com/username](https://github.com/tranhoang2310)"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="[https://www.linkedin.com/in/username](https://www.linkedin.com/in/tranhaihoang2310/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/tranhoang2310"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/tranhaihoang2310"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/trannhaiihoangg/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 <!--
 <a href="https://t.me/username"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-<a href="https://www.instagram.com/username"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 -->
 
 </div>
@@ -25,13 +25,10 @@
 
 ### 🛠️ Skills
 
-#### Programming Languages:
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?&style=flat-square&logo=go&logoColor=white)
-
-#### Technologies:
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=flat-square&logo=amazon-aws&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20.svg?&style=flat-square&logo=apache-kafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=docker&logoColor=white)
