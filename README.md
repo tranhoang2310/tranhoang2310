@@ -22,6 +22,7 @@
 💻 Full-stack developer | 🌍 Coding for traveling  
 🌟 Passionate about open-source & clean code
 
+As a Software Engineer, I specialize in developing software, enterprise management systems, and technology products. Leveraging my acquired knowledge and a strong sense of responsibility, I aim to actively contribute to the company's growth and development.
 
 ### 🛠️ Skills
 
@@ -41,8 +42,8 @@
 
 
 ### 🎓 Education
-- **Cybersecurity of computer systems** - Taras Shevchenko National University of Kyiv
-- **Natural science lyceum 145**, Kyiv, Ukraine
+- **Master of Information System** - University of Science – Ho Chi Minh National University
+- **Bachelor of Information System** - University of Economic and Law – Ho Chi Minh National University
 
 
 
